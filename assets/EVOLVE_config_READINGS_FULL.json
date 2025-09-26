@@ -1,0 +1,1838 @@
+{
+  "meta": {
+    "title": "EVOLVE Placement Test — Digital (Exact from PDF)",
+    "version": "1.0",
+    "provider": "Premium Level",
+    "level_map": [
+      {
+        "min": 1,
+        "max": 11,
+        "level": "A1"
+      },
+      {
+        "min": 12,
+        "max": 23,
+        "level": "A2"
+      },
+      {
+        "min": 24,
+        "max": 36,
+        "level": "B1"
+      },
+      {
+        "min": 37,
+        "max": 49,
+        "level": "B1+"
+      },
+      {
+        "min": 50,
+        "max": 61,
+        "level": "B2"
+      },
+      {
+        "min": 62,
+        "max": 70,
+        "level": "C1"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION I: LISTENING",
+      "instructions": "In this section of the test, you will hear conversations and complete the information about them. Choose the correct answer (a, b, c, or d). You will hear the conversation only once. There are 20 items, and you have 15 minutes to complete this section.",
+      "timer_seconds": 1020,
+      "items": [
+        {
+          "id": "L_test",
+          "type": "audio",
+          "label": "Track 3 — Test",
+          "asset": "assets/audio/track3.mp3"
+        },
+        {
+          "id": "Q1",
+          "type": "mcq1",
+          "label": "1 Emily  .",
+          "choices": [
+            {
+              "text": "A) works at a café",
+              "value": "A"
+            },
+            {
+              "text": "B) never goes to the mall",
+              "value": "B"
+            },
+            {
+              "text": "C) works every weekend",
+              "value": "C"
+            },
+            {
+              "text": "D) goes to the mall every day",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q2",
+          "type": "mcq1",
+          "label": "2 Jessica  .",
+          "choices": [
+            {
+              "text": "A) is buying a dress and a skirt",
+              "value": "A"
+            },
+            {
+              "text": "B) thinks the skirts are expensive",
+              "value": "B"
+            },
+            {
+              "text": "C) can’t find a red skirt",
+              "value": "C"
+            },
+            {
+              "text": "D) pays $30 for the skirt",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q3",
+          "type": "mcq1",
+          "label": "3 Rachel and Michael  .",
+          "choices": [
+            {
+              "text": "A) are having lunch together",
+              "value": "A"
+            },
+            {
+              "text": "B) are buying gifts for their children",
+              "value": "B"
+            },
+            {
+              "text": "C) are busy tomorrow afternoon",
+              "value": "C"
+            },
+            {
+              "text": "D) are going to meet again tomorrow",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q4",
+          "type": "mcq1",
+          "label": "4 Andrew  .",
+          "choices": [
+            {
+              "text": "A) didn’t enjoy the food",
+              "value": "A"
+            },
+            {
+              "text": "B) ate just a little pasta",
+              "value": "B"
+            },
+            {
+              "text": "C) ordered a salad",
+              "value": "C"
+            },
+            {
+              "text": "D) didn’t like the dressing",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q5",
+          "type": "mcq1",
+          "label": "5 The waitress  .",
+          "choices": [
+            {
+              "text": "A) can make the salad dressing",
+              "value": "A"
+            },
+            {
+              "text": "B) is going to talk to the chef",
+              "value": "B"
+            },
+            {
+              "text": "C) doesn’t offer a dessert to Andrew",
+              "value": "C"
+            },
+            {
+              "text": "D) is going to bring Andrew some coffee",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q6",
+          "type": "mcq1",
+          "label": "6 Laura  .",
+          "choices": [
+            {
+              "text": "A) hit her head in a basketball game",
+              "value": "A"
+            },
+            {
+              "text": "B) ate some bad food at school yesterday",
+              "value": "B"
+            },
+            {
+              "text": "C) has a horrible pain in her stomach",
+              "value": "C"
+            },
+            {
+              "text": "D) has a very bad headache",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q7",
+          "type": "mcq1",
+          "label": "7 Laura’s father  .",
+          "choices": [
+            {
+              "text": "A) has a stomachache too",
+              "value": "A"
+            },
+            {
+              "text": "B) offers to take her to the doctor",
+              "value": "B"
+            },
+            {
+              "text": "C) is going to call a doctor",
+              "value": "C"
+            },
+            {
+              "text": "D) wants to rest a little",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q8",
+          "type": "mcq1",
+          "label": "8 When Jack called Olivia, she  .",
+          "choices": [
+            {
+              "text": "A) couldn’t hear him because of a bad connection",
+              "value": "A"
+            },
+            {
+              "text": "B) was in a noisy area, but she moved",
+              "value": "B"
+            },
+            {
+              "text": "C) was at the bus stop with her friend Katie",
+              "value": "C"
+            },
+            {
+              "text": "D) was on her way to see a play",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q9",
+          "type": "mcq1",
+          "label": "9 Jack  .",
+          "choices": [
+            {
+              "text": "A) thought the movie was not very exciting",
+              "value": "A"
+            },
+            {
+              "text": "B) thought the movie had too much action",
+              "value": "B"
+            },
+            {
+              "text": "C) thinks Olivia shouldn’t see the movie",
+              "value": "C"
+            },
+            {
+              "text": "D) is going out with Olivia and Katie on Friday",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q10",
+          "type": "mcq1",
+          "label": "10 Amanda and Patrick  .",
+          "choices": [
+            {
+              "text": "A) last met in January",
+              "value": "A"
+            },
+            {
+              "text": "B) went to a concert together",
+              "value": "B"
+            },
+            {
+              "text": "C) haven’t seen each other since April",
+              "value": "C"
+            },
+            {
+              "text": "D) have been spending a lot of time together lately",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q11",
+          "type": "mcq1",
+          "label": "11 Amanda  .",
+          "choices": [
+            {
+              "text": "A) has found a new job",
+              "value": "A"
+            },
+            {
+              "text": "B) is looking for another job",
+              "value": "B"
+            },
+            {
+              "text": "C) finds her work too challenging",
+              "value": "C"
+            },
+            {
+              "text": "D) has been having problems at work",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q12",
+          "type": "mcq1",
+          "label": "12 Patrick  .",
+          "choices": [
+            {
+              "text": "A) has been learning Spanish",
+              "value": "A"
+            },
+            {
+              "text": "B) isn’t enjoying his cooking class very much",
+              "value": "B"
+            },
+            {
+              "text": "C) has been all over the world lately",
+              "value": "C"
+            },
+            {
+              "text": "D) wants to cook for Amanda and Jim",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q13",
+          "type": "mcq1",
+          "label": "13 Mr. Kushner  .",
+          "choices": [
+            {
+              "text": "A) thought that Nicole was disappointed with her grade",
+              "value": "A"
+            },
+            {
+              "text": "B) doesn’t think Nicole knows about his rules",
+              "value": "B"
+            },
+            {
+              "text": "C) usually lets students take exams a second time",
+              "value": "C"
+            },
+            {
+              "text": "D) thinks that Nicole will get a better grade next time",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q14",
+          "type": "mcq1",
+          "label": "14 Nicole thinks that she got a low grade because  .",
+          "choices": [
+            {
+              "text": "A) she only had time to answer the reading questions",
+              "value": "A"
+            },
+            {
+              "text": "B) she didn’t get a grade on the reading section",
+              "value": "B"
+            },
+            {
+              "text": "C) she forgot to answer the reading questions",
+              "value": "C"
+            },
+            {
+              "text": "D) she did badly on the reading section",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q15",
+          "type": "mcq1",
+          "label": "15 In the end, Mr. Kushner  .",
+          "choices": [
+            {
+              "text": "A) wasn’t able to help Nicole",
+              "value": "A"
+            },
+            {
+              "text": "B) asked Nicole not to miss an exam again",
+              "value": "B"
+            },
+            {
+              "text": "C) apologized to Nicole for the problem",
+              "value": "C"
+            },
+            {
+              "text": "D) realized that Nicole’s exam was missing",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q16",
+          "type": "mcq1",
+          "label": "16 After Lisa’s interview, she felt  .",
+          "choices": [
+            {
+              "text": "A) more optimistic than she did before",
+              "value": "A"
+            },
+            {
+              "text": "B) she was well prepared for it",
+              "value": "B"
+            },
+            {
+              "text": "C) uncertain about it",
+              "value": "C"
+            },
+            {
+              "text": "D) her answers sounded very confident",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q17",
+          "type": "mcq1",
+          "label": "17 During the interview, Lisa  .",
+          "choices": [
+            {
+              "text": "A) recognized that she’s an impatient person",
+              "value": "A"
+            },
+            {
+              "text": "B) said she tended to be too positive about things",
+              "value": "B"
+            },
+            {
+              "text": "C) admitted she didn’t enjoy working on big projects",
+              "value": "C"
+            },
+            {
+              "text": "D) boasted that she always met her deadlines",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q18",
+          "type": "mcq1",
+          "label": "18 According to Eric,   can make a person seem intelligent.",
+          "choices": [
+            {
+              "text": "A) taking less time to answer a question",
+              "value": "A"
+            },
+            {
+              "text": "B) staying calm throughout an interview",
+              "value": "B"
+            },
+            {
+              "text": "C) speaking naturally and showing no anxiety",
+              "value": "C"
+            },
+            {
+              "text": "D) pausing before saying something",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q19",
+          "type": "mcq1",
+          "label": "19 Lisa  .",
+          "choices": [
+            {
+              "text": "A) thinks she could find a much better job",
+              "value": "A"
+            },
+            {
+              "text": "B) usually believes in miracles",
+              "value": "B"
+            },
+            {
+              "text": "C) expects to be offered the position",
+              "value": "C"
+            },
+            {
+              "text": "D) feels frustrated about the situation",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q20",
+          "type": "mcq1",
+          "label": "20 Eric  .",
+          "choices": [
+            {
+              "text": "A) agrees with Lisa’s views on her performance at the interview",
+              "value": "A"
+            },
+            {
+              "text": "B) thinks people naturally have a good opinion about Lisa",
+              "value": "B"
+            },
+            {
+              "text": "C) is concerned that Lisa might quit her job",
+              "value": "C"
+            },
+            {
+              "text": "D) advises her not to be so proud of herself",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "title": "SECTION II: READING",
+      "instructions": "Read the short passages and answer the questions. Choose the correct answer (a, b, c, or d). There are 20 items; you have 20 minutes.",
+      "timer_seconds": 1200,
+      "items": [
+        {
+          "id": "Q21",
+          "type": "mcq1",
+          "label": "21 Heather   every day.",
+          "choices": [
+            {
+              "text": "A) swims",
+              "value": "A"
+            },
+            {
+              "text": "B) plays tennis",
+              "value": "B"
+            },
+            {
+              "text": "C) comes home early",
+              "value": "C"
+            },
+            {
+              "text": "D) walks with her sister",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1,
+          "prompt": "Passage 1: An email, Subject: Greetings from Florida!\n\nHi, Sara.\n\nI’m visiting my sister in Florida. It’s very warm and nice here. Every morning, I go to the beach and swim. \nSometimes my sister comes home early, and we play tennis in the afternoon. And we always go for a long \nwalk after that. I’m having a great time!\n\nLove,\n\nHeather"
+        },
+        {
+          "id": "Q22",
+          "type": "mcq1",
+          "label": "22 The writer  .",
+          "choices": [
+            {
+              "text": "A) is singing tonight",
+              "value": "A"
+            },
+            {
+              "text": "B) is buying flowers on Friday",
+              "value": "B"
+            },
+            {
+              "text": "C) listened to a band a week ago",
+              "value": "C"
+            },
+            {
+              "text": "D) is going to a party this weekend",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1,
+          "prompt": "Passage 2: Helen is getting married and I’m tired.\n\nThis has been a crazy week! One of my friends is getting married on Saturday, and I’m helping her with \nthe reception. It’s not going to be a big party, but I still have to do a lot of things. For example, I chose the \nsongs last week, but the band is playing them for me tonight. I bought the flowers today, but I have to \npick them up on Friday. I’m tired. Can someone help me, please?!"
+        },
+        {
+          "id": "Q23",
+          "type": "mcq1",
+          "label": "23 The Whitney Museum  .",
+          "choices": [
+            {
+              "text": "A) shows art from many countries",
+              "value": "A"
+            },
+            {
+              "text": "B) moved to a smaller place in 2015",
+              "value": "B"
+            },
+            {
+              "text": "C) has a place to eat and great views",
+              "value": "C"
+            },
+            {
+              "text": "D) was in the same building since 1931",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1,
+          "prompt": "Passage 3: The Whitney Museum of American Art\n\nThe Whitney is one of the most famous art museums in New York City. It first opened in 1931 in \nGreenwich Village, and then it moved to two different places in 1954 and 1966. Since 2015, this museum \nof American art has been in a new building downtown. The new space is larger and more modern, and it \nhas beautiful views of the Hudson River from its windows and café. Visit it next time you are in the city."
+        },
+        {
+          "id": "Q24",
+          "type": "mcq1",
+          "label": "24 The article suggests that  .",
+          "choices": [
+            {
+              "text": "A) there is very little research about the effects of sitting",
+              "value": "A"
+            },
+            {
+              "text": "B) sitting for a long time might be dangerous for your health",
+              "value": "B"
+            },
+            {
+              "text": "C) office workers live longer than other types of workers",
+              "value": "C"
+            },
+            {
+              "text": "D) people do not usually like to walk and exercise",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1,
+          "prompt": "Passage 4: Is sitting unhealthy?\n\nIf you have been sitting in an office for a long period of time, stand up and move for your health. \nResearch has shown that too much sitting might cause higher blood pressure, add body fat, and increase \nthe danger of death from heart disease. Studies have also suggested that moving more has a positive \neffect on a person’s health. So, what can an office worker do? Experts say that you should take a break \nfrom sitting every 30 minutes, stand more while working, and even walk when meeting with coworkers. \nMoving might save your life."
+        },
+        {
+          "id": "Q25",
+          "type": "mcq1",
+          "label": "25 According to the article, office workers should  .",
+          "choices": [
+            {
+              "text": "A) stop working every half hour",
+              "value": "A"
+            },
+            {
+              "text": "B) not work in an office if possible",
+              "value": "B"
+            },
+            {
+              "text": "C) only stand or walk when you work",
+              "value": "C"
+            },
+            {
+              "text": "D) move more to avoid serious heart problems",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1,
+          "prompt": "Passage 4: Is sitting unhealthy?\n\nIf you have been sitting in an office for a long period of time, stand up and move for your health. \nResearch has shown that too much sitting might cause higher blood pressure, add body fat, and increase \nthe danger of death from heart disease. Studies have also suggested that moving more has a positive \neffect on a person’s health. So, what can an office worker do? Experts say that you should take a break \nfrom sitting every 30 minutes, stand more while working, and even walk when meeting with coworkers. \nMoving might save your life."
+        },
+        {
+          "id": "Q26",
+          "type": "mcq1",
+          "label": "26 The author of the blog post believes that  .",
+          "choices": [
+            {
+              "text": "A) there may be both positive and negative consequences",
+              "value": "A"
+            },
+            {
+              "text": "B) the changes will be helpful for most workers from the region",
+              "value": "B"
+            },
+            {
+              "text": "C) there will soon be many more big companies in the neighborhood",
+              "value": "C"
+            },
+            {
+              "text": "D) the changes will be mostly harmful for people who live in the area",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1,
+          "prompt": "Passage 5: A changing neighborhood – for better or for worse?\n\nRecently, an international online retailer opened an enormous, brand-new office in our neighborhood. \nUntil then, there hadn’t been any major companies or huge buildings like this in the area – just small \nfamily-owned businesses. So, obviously, there has been a lot of discussion about it lately. \n\nSome people say the company is creating jobs and will attract other new businesses, but others \ncomplain that most of the new jobs will be low-paying. These people also believe that rising costs will \npush out independent businesses and make the neighborhood too expensive for its current residents. \nI can’t make up my mind whether the company will be a benefit for the neighborhood or not. It’s a \ncomplicated issue, and I’m not sure there is a right or wrong answer. What do you think?"
+        },
+        {
+          "id": "Q27",
+          "type": "mcq1",
+          "label": "27 Some people think the company will help the area because it will  .",
+          "choices": [
+            {
+              "text": "A) create a greater number of jobs with excellent salaries",
+              "value": "A"
+            },
+            {
+              "text": "B) make the area more interesting to other companies",
+              "value": "B"
+            },
+            {
+              "text": "C) lower the cost of living in the neighborhood",
+              "value": "C"
+            },
+            {
+              "text": "D) replace smaller stores with larger ones",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1,
+          "prompt": "Passage 5: A changing neighborhood – for better or for worse?\n\nRecently, an international online retailer opened an enormous, brand-new office in our neighborhood. \nUntil then, there hadn’t been any major companies or huge buildings like this in the area – just small \nfamily-owned businesses. So, obviously, there has been a lot of discussion about it lately. \n\nSome people say the company is creating jobs and will attract other new businesses, but others \ncomplain that most of the new jobs will be low-paying. These people also believe that rising costs will \npush out independent businesses and make the neighborhood too expensive for its current residents. \nI can’t make up my mind whether the company will be a benefit for the neighborhood or not. It’s a \ncomplicated issue, and I’m not sure there is a right or wrong answer. What do you think?"
+        },
+        {
+          "id": "Q28",
+          "type": "mcq1",
+          "label": "28 Alex’s original goal at the bakery was to  .",
+          "choices": [
+            {
+              "text": "A) eat free bread and cake",
+              "value": "A"
+            },
+            {
+              "text": "B) learn to be a baker",
+              "value": "B"
+            },
+            {
+              "text": "C) make money",
+              "value": "C"
+            },
+            {
+              "text": "D) help people",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1,
+          "prompt": "Passage 6: An inspiring story\n\nWhen Alex McGovern was in high school, he used to earn money working weekends at a local bakery. \nAfter working there for several months, helping bake fresh bread and cakes, Alex noticed a familiar \npattern: a huge amount of food was thrown away at the end of each day. It was food that the bakery \ncould no longer sell, but it was still good enough to eat. So Alex began to wonder what he could do with \nall of this extra food.\n\nWith the bakery owner’s permission, he reached out to a local organization that worked with families \nwho need help with food and housing. The charity was extremely pleased and arranged to pick up the \nextra food each day. Now bread was no longer wasted, but generously shared with people in need.\n\nAlex’s idea was such a success that he began approaching other local restaurants about joining the \nprogram. Before long, there were over a dozen businesses taking part, and Alex created a website to \ngrow the program in other cities. Today Alex’s “simple” idea is helping feed people all over the country!"
+        },
+        {
+          "id": "Q29",
+          "type": "mcq1",
+          "label": "29 Alex got his idea  .",
+          "choices": [
+            {
+              "text": "A) when he saw how much food was wasted",
+              "value": "A"
+            },
+            {
+              "text": "B) while he was baking some fresh bread",
+              "value": "B"
+            },
+            {
+              "text": "C) from the owner of the bakery",
+              "value": "C"
+            },
+            {
+              "text": "D) from a local organization",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1,
+          "prompt": "Passage 6: An inspiring story\n\nWhen Alex McGovern was in high school, he used to earn money working weekends at a local bakery. \nAfter working there for several months, helping bake fresh bread and cakes, Alex noticed a familiar \npattern: a huge amount of food was thrown away at the end of each day. It was food that the bakery \ncould no longer sell, but it was still good enough to eat. So Alex began to wonder what he could do with \nall of this extra food.\n\nWith the bakery owner’s permission, he reached out to a local organization that worked with families \nwho need help with food and housing. The charity was extremely pleased and arranged to pick up the \nextra food each day. Now bread was no longer wasted, but generously shared with people in need.\n\nAlex’s idea was such a success that he began approaching other local restaurants about joining the \nprogram. Before long, there were over a dozen businesses taking part, and Alex created a website to \ngrow the program in other cities. Today Alex’s “simple” idea is helping feed people all over the country!"
+        },
+        {
+          "id": "Q30",
+          "type": "mcq1",
+          "label": "30 The bakery owner  .",
+          "choices": [
+            {
+              "text": "A) thought that Alex’s plans wouldn’t work",
+              "value": "A"
+            },
+            {
+              "text": "B) allowed Alex to give away the extra bread",
+              "value": "B"
+            },
+            {
+              "text": "C) helped Alex create a website for the organization",
+              "value": "C"
+            },
+            {
+              "text": "D) didn’t care about the families assisted by the charity",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1,
+          "prompt": "Passage 6: An inspiring story\n\nWhen Alex McGovern was in high school, he used to earn money working weekends at a local bakery. \nAfter working there for several months, helping bake fresh bread and cakes, Alex noticed a familiar \npattern: a huge amount of food was thrown away at the end of each day. It was food that the bakery \ncould no longer sell, but it was still good enough to eat. So Alex began to wonder what he could do with \nall of this extra food.\n\nWith the bakery owner’s permission, he reached out to a local organization that worked with families \nwho need help with food and housing. The charity was extremely pleased and arranged to pick up the \nextra food each day. Now bread was no longer wasted, but generously shared with people in need.\n\nAlex’s idea was such a success that he began approaching other local restaurants about joining the \nprogram. Before long, there were over a dozen businesses taking part, and Alex created a website to \ngrow the program in other cities. Today Alex’s “simple” idea is helping feed people all over the country!"
+        },
+        {
+          "id": "Q31",
+          "type": "mcq1",
+          "label": "31 The extra food was  .",
+          "choices": [
+            {
+              "text": "A) sold by Alex",
+              "value": "A"
+            },
+            {
+              "text": "B) bought by the charity",
+              "value": "B"
+            },
+            {
+              "text": "C) delivered by the bakery",
+              "value": "C"
+            },
+            {
+              "text": "D) picked up by the organization",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1,
+          "prompt": "Passage 6: An inspiring story\n\nWhen Alex McGovern was in high school, he used to earn money working weekends at a local bakery. \nAfter working there for several months, helping bake fresh bread and cakes, Alex noticed a familiar \npattern: a huge amount of food was thrown away at the end of each day. It was food that the bakery \ncould no longer sell, but it was still good enough to eat. So Alex began to wonder what he could do with \nall of this extra food.\n\nWith the bakery owner’s permission, he reached out to a local organization that worked with families \nwho need help with food and housing. The charity was extremely pleased and arranged to pick up the \nextra food each day. Now bread was no longer wasted, but generously shared with people in need.\n\nAlex’s idea was such a success that he began approaching other local restaurants about joining the \nprogram. Before long, there were over a dozen businesses taking part, and Alex created a website to \ngrow the program in other cities. Today Alex’s “simple” idea is helping feed people all over the country!"
+        },
+        {
+          "id": "Q32",
+          "type": "mcq1",
+          "label": "32 This article is aimed primarily at  .",
+          "choices": [
+            {
+              "text": "A) employers",
+              "value": "A"
+            },
+            {
+              "text": "B) college students",
+              "value": "B"
+            },
+            {
+              "text": "C) potential job candidates",
+              "value": "C"
+            },
+            {
+              "text": "D) social media organizations",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1,
+          "prompt": "Passage 7: Some thoughts on your online profile\n\nIn many ways, the internet has made it easier than ever to find out about new job opportunities. \nYet, as companies increasingly examine candidates’ social media profiles for information to use in the \nselection process, people need to be aware of the risks and rewards of posting online. The views they \nexpress—and the ways they choose to express them—can be a crucial factor in whether or not they \nreceive an offer of employment.\n\nMany young adults, who have grown up with social media and are comfortable sharing their lives \nonline, don’t realize how employers are using social media in hiring decisions. These companies don’t just \nconsider information about a person’s online behavior; they may even gather information about friends \nand family. Some fear that employers may judge candidates based on factors such as their medical \nhistory, age, or even beliefs.\n\nWhile there is currently debate about what information companies are allowed to legally collect or use \nfor hiring decisions, everyone agrees that people need to be careful about what they post online. Your \nbehavior on social media could cost you your current position or job opportunities in the future.\n\nSo, should job applicants erase their social media accounts completely? According to Professor John \nSacks of the Better Hiring Institute, “It would be better to make sure you have a strong professional profile \nthat emphasizes your qualifications. Not having any social media might send the message that you \nhave something to hide.” In other words, take the time to create an attractive profile on a career site and \ncarefully consider everything you post online."
+        },
+        {
+          "id": "Q33",
+          "type": "mcq1",
+          "label": "33 According to the author, some people may not realize  .",
+          "choices": [
+            {
+              "text": "A) the effect of their online behavior on friends and family",
+              "value": "A"
+            },
+            {
+              "text": "B) how their online profiles can affect hiring decisions",
+              "value": "B"
+            },
+            {
+              "text": "C) what information companies cannot legally collect",
+              "value": "C"
+            },
+            {
+              "text": "D) if their online profile looks professional enough",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1,
+          "prompt": "Passage 7: Some thoughts on your online profile\n\nIn many ways, the internet has made it easier than ever to find out about new job opportunities. \nYet, as companies increasingly examine candidates’ social media profiles for information to use in the \nselection process, people need to be aware of the risks and rewards of posting online. The views they \nexpress—and the ways they choose to express them—can be a crucial factor in whether or not they \nreceive an offer of employment.\n\nMany young adults, who have grown up with social media and are comfortable sharing their lives \nonline, don’t realize how employers are using social media in hiring decisions. These companies don’t just \nconsider information about a person’s online behavior; they may even gather information about friends \nand family. Some fear that employers may judge candidates based on factors such as their medical \nhistory, age, or even beliefs.\n\nWhile there is currently debate about what information companies are allowed to legally collect or use \nfor hiring decisions, everyone agrees that people need to be careful about what they post online. Your \nbehavior on social media could cost you your current position or job opportunities in the future.\n\nSo, should job applicants erase their social media accounts completely? According to Professor John \nSacks of the Better Hiring Institute, “It would be better to make sure you have a strong professional profile \nthat emphasizes your qualifications. Not having any social media might send the message that you \nhave something to hide.” In other words, take the time to create an attractive profile on a career site and \ncarefully consider everything you post online."
+        },
+        {
+          "id": "Q34",
+          "type": "mcq1",
+          "label": "34 One way of increasing your chances of getting a good job is  .",
+          "choices": [
+            {
+              "text": "A) not keeping a profile online",
+              "value": "A"
+            },
+            {
+              "text": "B) expressing your opinions in a honest way",
+              "value": "B"
+            },
+            {
+              "text": "C) having a profile that clearly shows your skills",
+              "value": "C"
+            },
+            {
+              "text": "D) being secretive about what you share online",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1,
+          "prompt": "Passage 7: Some thoughts on your online profile\n\nIn many ways, the internet has made it easier than ever to find out about new job opportunities. \nYet, as companies increasingly examine candidates’ social media profiles for information to use in the \nselection process, people need to be aware of the risks and rewards of posting online. The views they \nexpress—and the ways they choose to express them—can be a crucial factor in whether or not they \nreceive an offer of employment.\n\nMany young adults, who have grown up with social media and are comfortable sharing their lives \nonline, don’t realize how employers are using social media in hiring decisions. These companies don’t just \nconsider information about a person’s online behavior; they may even gather information about friends \nand family. Some fear that employers may judge candidates based on factors such as their medical \nhistory, age, or even beliefs.\n\nWhile there is currently debate about what information companies are allowed to legally collect or use \nfor hiring decisions, everyone agrees that people need to be careful about what they post online. Your \nbehavior on social media could cost you your current position or job opportunities in the future.\n\nSo, should job applicants erase their social media accounts completely? According to Professor John \nSacks of the Better Hiring Institute, “It would be better to make sure you have a strong professional profile \nthat emphasizes your qualifications. Not having any social media might send the message that you \nhave something to hide.” In other words, take the time to create an attractive profile on a career site and \ncarefully consider everything you post online."
+        },
+        {
+          "id": "Q35",
+          "type": "mcq1",
+          "label": "35 The author   online personal information to make hiring decisions.",
+          "choices": [
+            {
+              "text": "A) is against companies using",
+              "value": "A"
+            },
+            {
+              "text": "B) is in favor of the practice of using",
+              "value": "B"
+            },
+            {
+              "text": "C) believes it does not matter if employers use",
+              "value": "C"
+            },
+            {
+              "text": "D) does not say whether it is good or bad to use",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1,
+          "prompt": "Passage 7: Some thoughts on your online profile\n\nIn many ways, the internet has made it easier than ever to find out about new job opportunities. \nYet, as companies increasingly examine candidates’ social media profiles for information to use in the \nselection process, people need to be aware of the risks and rewards of posting online. The views they \nexpress—and the ways they choose to express them—can be a crucial factor in whether or not they \nreceive an offer of employment.\n\nMany young adults, who have grown up with social media and are comfortable sharing their lives \nonline, don’t realize how employers are using social media in hiring decisions. These companies don’t just \nconsider information about a person’s online behavior; they may even gather information about friends \nand family. Some fear that employers may judge candidates based on factors such as their medical \nhistory, age, or even beliefs.\n\nWhile there is currently debate about what information companies are allowed to legally collect or use \nfor hiring decisions, everyone agrees that people need to be careful about what they post online. Your \nbehavior on social media could cost you your current position or job opportunities in the future.\n\nSo, should job applicants erase their social media accounts completely? According to Professor John \nSacks of the Better Hiring Institute, “It would be better to make sure you have a strong professional profile \nthat emphasizes your qualifications. Not having any social media might send the message that you \nhave something to hide.” In other words, take the time to create an attractive profile on a career site and \ncarefully consider everything you post online."
+        },
+        {
+          "id": "Q36",
+          "type": "mcq1",
+          "label": "36 The main idea of the article is that  .",
+          "choices": [
+            {
+              "text": "A) lack of sleep can have significant health consequences",
+              "value": "A"
+            },
+            {
+              "text": "B) sleeping is not as essential as people used to think",
+              "value": "B"
+            },
+            {
+              "text": "C) people underestimate how much sleep they need",
+              "value": "C"
+            },
+            {
+              "text": "D) relaxation techniques are important for a good night’s sleep",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1,
+          "prompt": "Passage 8: Sleep deprivation\n\nIf you can sleep well, be grateful. Sleep deprivation is extremely common, and its side effects are both \nserious and underappreciated. It is estimated that 50–70 million people in the U.S. suffer from a sleep \ndisorder, and yet too many of them do not seek medical help. Although occasional sleep interruptions \nare generally no more than a nuisance, continuous lack of sleep can lead to excessive daytime sleepiness, \nemotional difficulties, poor job performance, and even obesity.\n\nSleep deprivation also impacts mental well-being. A study done by the U.K. Mental Health Foundation \nfound that people who didn’t get enough sleep were about three times more likely to exhibit poor \nconcentration and four times more likely to have relationship problems. According to another study, by \nthe University of Warwick, getting less than six hours of sleep on a continuous basis makes a person 48% \nmore likely to die of heart disease and 15% more likely to develop a stroke. According to study co-author \nProfessor Francesco Cappuccio, lack of sleep “is like a ticking time bomb for your health.”\n\nIf a person is experiencing difficulties falling and staying asleep, there are several effective methods \nthat can help and do not require medication. These include relaxation techniques, like tightening and \nrelaxing muscles, breathing slowly, and meditating; stimulation control, which involves controlling  \npre-bedtime activities and surroundings; and cognitive behavioral therapy (CBT), designed to help people \nunderstand and change their thought patterns. If sleep deprivation and negative symptoms continue, \nhowever, consultation with a doctor is recommended. It’s essential not to underestimate the importance \nof adequate sleep to maintaining good mental and physical health."
+        },
+        {
+          "id": "Q37",
+          "type": "mcq1",
+          "label": "37 According to the article, many people with sleeping disorders  .",
+          "choices": [
+            {
+              "text": "A) breathe more slowly",
+              "value": "A"
+            },
+            {
+              "text": "B) do cognitive behavioral therapy",
+              "value": "B"
+            },
+            {
+              "text": "C) do not speak to their doctor about it",
+              "value": "C"
+            },
+            {
+              "text": "D) usually practice healthy sleeping habits",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1,
+          "prompt": "Passage 8: Sleep deprivation\n\nIf you can sleep well, be grateful. Sleep deprivation is extremely common, and its side effects are both \nserious and underappreciated. It is estimated that 50–70 million people in the U.S. suffer from a sleep \ndisorder, and yet too many of them do not seek medical help. Although occasional sleep interruptions \nare generally no more than a nuisance, continuous lack of sleep can lead to excessive daytime sleepiness, \nemotional difficulties, poor job performance, and even obesity.\n\nSleep deprivation also impacts mental well-being. A study done by the U.K. Mental Health Foundation \nfound that people who didn’t get enough sleep were about three times more likely to exhibit poor \nconcentration and four times more likely to have relationship problems. According to another study, by \nthe University of Warwick, getting less than six hours of sleep on a continuous basis makes a person 48% \nmore likely to die of heart disease and 15% more likely to develop a stroke. According to study co-author \nProfessor Francesco Cappuccio, lack of sleep “is like a ticking time bomb for your health.”\n\nIf a person is experiencing difficulties falling and staying asleep, there are several effective methods \nthat can help and do not require medication. These include relaxation techniques, like tightening and \nrelaxing muscles, breathing slowly, and meditating; stimulation control, which involves controlling  \npre-bedtime activities and surroundings; and cognitive behavioral therapy (CBT), designed to help people \nunderstand and change their thought patterns. If sleep deprivation and negative symptoms continue, \nhowever, consultation with a doctor is recommended. It’s essential not to underestimate the importance \nof adequate sleep to maintaining good mental and physical health."
+        },
+        {
+          "id": "Q38",
+          "type": "mcq1",
+          "label": "38 The article suggests that good sleepers  .",
+          "choices": [
+            {
+              "text": "A) can focus better",
+              "value": "A"
+            },
+            {
+              "text": "B) often get about eight hours of good sleep",
+              "value": "B"
+            },
+            {
+              "text": "C) are able to sleep during the day",
+              "value": "C"
+            },
+            {
+              "text": "D) do not have heart problems",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1,
+          "prompt": "Passage 8: Sleep deprivation\n\nIf you can sleep well, be grateful. Sleep deprivation is extremely common, and its side effects are both \nserious and underappreciated. It is estimated that 50–70 million people in the U.S. suffer from a sleep \ndisorder, and yet too many of them do not seek medical help. Although occasional sleep interruptions \nare generally no more than a nuisance, continuous lack of sleep can lead to excessive daytime sleepiness, \nemotional difficulties, poor job performance, and even obesity.\n\nSleep deprivation also impacts mental well-being. A study done by the U.K. Mental Health Foundation \nfound that people who didn’t get enough sleep were about three times more likely to exhibit poor \nconcentration and four times more likely to have relationship problems. According to another study, by \nthe University of Warwick, getting less than six hours of sleep on a continuous basis makes a person 48% \nmore likely to die of heart disease and 15% more likely to develop a stroke. According to study co-author \nProfessor Francesco Cappuccio, lack of sleep “is like a ticking time bomb for your health.”\n\nIf a person is experiencing difficulties falling and staying asleep, there are several effective methods \nthat can help and do not require medication. These include relaxation techniques, like tightening and \nrelaxing muscles, breathing slowly, and meditating; stimulation control, which involves controlling  \npre-bedtime activities and surroundings; and cognitive behavioral therapy (CBT), designed to help people \nunderstand and change their thought patterns. If sleep deprivation and negative symptoms continue, \nhowever, consultation with a doctor is recommended. It’s essential not to underestimate the importance \nof adequate sleep to maintaining good mental and physical health."
+        },
+        {
+          "id": "Q39",
+          "type": "mcq1",
+          "label": "39 Professor Cappuccio found that  .",
+          "choices": [
+            {
+              "text": "A) sleep-deprived people have more relationship problems",
+              "value": "A"
+            },
+            {
+              "text": "B) sleep deprivation might make people critically ill",
+              "value": "B"
+            },
+            {
+              "text": "C) research from the Mental Health Foundation was incorrect",
+              "value": "C"
+            },
+            {
+              "text": "D) lack of sleep is just a minor nuisance",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1,
+          "prompt": "Passage 8: Sleep deprivation\n\nIf you can sleep well, be grateful. Sleep deprivation is extremely common, and its side effects are both \nserious and underappreciated. It is estimated that 50–70 million people in the U.S. suffer from a sleep \ndisorder, and yet too many of them do not seek medical help. Although occasional sleep interruptions \nare generally no more than a nuisance, continuous lack of sleep can lead to excessive daytime sleepiness, \nemotional difficulties, poor job performance, and even obesity.\n\nSleep deprivation also impacts mental well-being. A study done by the U.K. Mental Health Foundation \nfound that people who didn’t get enough sleep were about three times more likely to exhibit poor \nconcentration and four times more likely to have relationship problems. According to another study, by \nthe University of Warwick, getting less than six hours of sleep on a continuous basis makes a person 48% \nmore likely to die of heart disease and 15% more likely to develop a stroke. According to study co-author \nProfessor Francesco Cappuccio, lack of sleep “is like a ticking time bomb for your health.”\n\nIf a person is experiencing difficulties falling and staying asleep, there are several effective methods \nthat can help and do not require medication. These include relaxation techniques, like tightening and \nrelaxing muscles, breathing slowly, and meditating; stimulation control, which involves controlling  \npre-bedtime activities and surroundings; and cognitive behavioral therapy (CBT), designed to help people \nunderstand and change their thought patterns. If sleep deprivation and negative symptoms continue, \nhowever, consultation with a doctor is recommended. It’s essential not to underestimate the importance \nof adequate sleep to maintaining good mental and physical health."
+        },
+        {
+          "id": "Q40",
+          "type": "mcq1",
+          "label": "40 The article says that people experiencing sleep difficulties can  .",
+          "choices": [
+            {
+              "text": "A) lose some weight",
+              "value": "A"
+            },
+            {
+              "text": "B) take some types of medicine",
+              "value": "B"
+            },
+            {
+              "text": "C) immediately find medical help",
+              "value": "C"
+            },
+            {
+              "text": "D) try methods that help them fall and stay asleep",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1,
+          "prompt": "Passage 8: Sleep deprivation\n\nIf you can sleep well, be grateful. Sleep deprivation is extremely common, and its side effects are both \nserious and underappreciated. It is estimated that 50–70 million people in the U.S. suffer from a sleep \ndisorder, and yet too many of them do not seek medical help. Although occasional sleep interruptions \nare generally no more than a nuisance, continuous lack of sleep can lead to excessive daytime sleepiness, \nemotional difficulties, poor job performance, and even obesity.\n\nSleep deprivation also impacts mental well-being. A study done by the U.K. Mental Health Foundation \nfound that people who didn’t get enough sleep were about three times more likely to exhibit poor \nconcentration and four times more likely to have relationship problems. According to another study, by \nthe University of Warwick, getting less than six hours of sleep on a continuous basis makes a person 48% \nmore likely to die of heart disease and 15% more likely to develop a stroke. According to study co-author \nProfessor Francesco Cappuccio, lack of sleep “is like a ticking time bomb for your health.”\n\nIf a person is experiencing difficulties falling and staying asleep, there are several effective methods \nthat can help and do not require medication. These include relaxation techniques, like tightening and \nrelaxing muscles, breathing slowly, and meditating; stimulation control, which involves controlling  \npre-bedtime activities and surroundings; and cognitive behavioral therapy (CBT), designed to help people \nunderstand and change their thought patterns. If sleep deprivation and negative symptoms continue, \nhowever, consultation with a doctor is recommended. It’s essential not to underestimate the importance \nof adequate sleep to maintaining good mental and physical health."
+        }
+      ]
+    },
+    {
+      "title": "SECTION III: LANGUAGE USE",
+      "instructions": "This section is about the use of English. Choose the correct answer (a, b, c, or d). There are 30 items; you have 15 minutes.",
+      "timer_seconds": 900,
+      "items": [
+        {
+          "id": "Q41",
+          "type": "mcq1",
+          "label": "41 My daughter sometimes   to school with her friends.",
+          "choices": [
+            {
+              "text": "A) walk",
+              "value": "A"
+            },
+            {
+              "text": "B) walks",
+              "value": "B"
+            },
+            {
+              "text": "C) walking",
+              "value": "C"
+            },
+            {
+              "text": "D) not walk",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q42",
+          "type": "mcq1",
+          "label": "42   eat dinner on Sundays?",
+          "choices": [
+            {
+              "text": "A) Where your family",
+              "value": "A"
+            },
+            {
+              "text": "B) How is your family",
+              "value": "B"
+            },
+            {
+              "text": "C) When your family do",
+              "value": "C"
+            },
+            {
+              "text": "D) What time does your family",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q43",
+          "type": "mcq1",
+          "label": "43   a lot of people in the park today.",
+          "choices": [
+            {
+              "text": "A) There",
+              "value": "A"
+            },
+            {
+              "text": "B) There’s",
+              "value": "B"
+            },
+            {
+              "text": "C) There are",
+              "value": "C"
+            },
+            {
+              "text": "D) There is no",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q44",
+          "type": "mcq1",
+          "label": "44  , but I’m not very good.",
+          "choices": [
+            {
+              "text": "A) I can play the guitar",
+              "value": "A"
+            },
+            {
+              "text": "B) I don’t play the guitar",
+              "value": "B"
+            },
+            {
+              "text": "C) I play the guitar very well",
+              "value": "C"
+            },
+            {
+              "text": "D) I can’t play the guitar well",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q45",
+          "type": "mcq1",
+          "label": "45 We had a nice vacation. The weather   beautiful.",
+          "choices": [
+            {
+              "text": "A) did",
+              "value": "A"
+            },
+            {
+              "text": "B) was",
+              "value": "B"
+            },
+            {
+              "text": "C) does",
+              "value": "C"
+            },
+            {
+              "text": "D) were",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q46",
+          "type": "mcq1",
+          "label": "46 Tom   home right now. He’s still at the office.",
+          "choices": [
+            {
+              "text": "A) isn’t driving",
+              "value": "A"
+            },
+            {
+              "text": "B) doesn’t drive",
+              "value": "B"
+            },
+            {
+              "text": "C) didn’t drive",
+              "value": "C"
+            },
+            {
+              "text": "D) drives",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q47",
+          "type": "mcq1",
+          "label": "47 Is it true?   a grandparent yesterday?",
+          "choices": [
+            {
+              "text": "A) Are you becoming",
+              "value": "A"
+            },
+            {
+              "text": "B) Does she become",
+              "value": "B"
+            },
+            {
+              "text": "C) Did he become",
+              "value": "C"
+            },
+            {
+              "text": "D) They became",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q48",
+          "type": "mcq1",
+          "label": "48 I go to the gym   evenings. I only don’t go on the weekend.",
+          "choices": [
+            {
+              "text": "A) some",
+              "value": "A"
+            },
+            {
+              "text": "B) most",
+              "value": "B"
+            },
+            {
+              "text": "C) all of the",
+              "value": "C"
+            },
+            {
+              "text": "D) many of the",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q49",
+          "type": "mcq1",
+          "label": "49 Susan’s cousin is   player on our soccer team.",
+          "choices": [
+            {
+              "text": "A) bad",
+              "value": "A"
+            },
+            {
+              "text": "B) best",
+              "value": "B"
+            },
+            {
+              "text": "C) worse",
+              "value": "C"
+            },
+            {
+              "text": "D) the worst",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q50",
+          "type": "mcq1",
+          "label": "50 Our neighbor   the screen of his phone twice last year.",
+          "choices": [
+            {
+              "text": "A) breaks",
+              "value": "A"
+            },
+            {
+              "text": "B) is breaking",
+              "value": "B"
+            },
+            {
+              "text": "C) has broken",
+              "value": "C"
+            },
+            {
+              "text": "D) broke",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q51",
+          "type": "mcq1",
+          "label": "51 A: I can’t forget to make a reservation at the restaurant before noon.\n B: Don’t worry.   you.",
+          "choices": [
+            {
+              "text": "A) I’m reminding",
+              "value": "A"
+            },
+            {
+              "text": "B) I’ve reminded",
+              "value": "B"
+            },
+            {
+              "text": "C) I’ll remind",
+              "value": "C"
+            },
+            {
+              "text": "D) I remind",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q52",
+          "type": "mcq1",
+          "label": "52 We   for a hotel when the storm began.",
+          "choices": [
+            {
+              "text": "A) search",
+              "value": "A"
+            },
+            {
+              "text": "B) will search",
+              "value": "B"
+            },
+            {
+              "text": "C) have searched",
+              "value": "C"
+            },
+            {
+              "text": "D) were searching",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q53",
+          "type": "mcq1",
+          "label": "53 If you   concentrate on your work, you usually waste a lot of time.",
+          "choices": [
+            {
+              "text": "A) don’t",
+              "value": "A"
+            },
+            {
+              "text": "B) won’t",
+              "value": "B"
+            },
+            {
+              "text": "C) didn’t",
+              "value": "C"
+            },
+            {
+              "text": "D) couldn’t",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q54",
+          "type": "mcq1",
+          "label": "54 I’m exhausted.   to fix this machine since I got here this morning.",
+          "choices": [
+            {
+              "text": "A) I try",
+              "value": "A"
+            },
+            {
+              "text": "B) I’ll try",
+              "value": "B"
+            },
+            {
+              "text": "C) I tried",
+              "value": "C"
+            },
+            {
+              "text": "D) I’ve been trying",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q55",
+          "type": "mcq1",
+          "label": "55 Several bridges   during the earthquake last year.",
+          "choices": [
+            {
+              "text": "A) badly damaged",
+              "value": "A"
+            },
+            {
+              "text": "B) were badly damaged",
+              "value": "B"
+            },
+            {
+              "text": "C) have badly damaged",
+              "value": "C"
+            },
+            {
+              "text": "D) were badly damaging",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q56",
+          "type": "mcq1",
+          "label": "56 The agency   that our ideas for the poster seem a little old-fashioned.",
+          "choices": [
+            {
+              "text": "A) believes",
+              "value": "A"
+            },
+            {
+              "text": "B) is believing",
+              "value": "B"
+            },
+            {
+              "text": "C) was believed",
+              "value": "C"
+            },
+            {
+              "text": "D) has been believing",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q57",
+          "type": "mcq1",
+          "label": "57 Superhero movies are a kind of entertainment   really attracted to.",
+          "choices": [
+            {
+              "text": "A) which",
+              "value": "A"
+            },
+            {
+              "text": "B) I’m not",
+              "value": "B"
+            },
+            {
+              "text": "C) who they",
+              "value": "C"
+            },
+            {
+              "text": "D) that aren’t",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q58",
+          "type": "mcq1",
+          "label": "58 More support   to groups dealing with environmental issues.",
+          "choices": [
+            {
+              "text": "A) is providing",
+              "value": "A"
+            },
+            {
+              "text": "B) might provide",
+              "value": "B"
+            },
+            {
+              "text": "C) must be provided",
+              "value": "C"
+            },
+            {
+              "text": "D) should be providing",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q59",
+          "type": "mcq1",
+          "label": "59 Employees   show their ID cards, or they couldn’t have access to the research facilities.",
+          "choices": [
+            {
+              "text": "A) were required to",
+              "value": "A"
+            },
+            {
+              "text": "B) were allowed to",
+              "value": "B"
+            },
+            {
+              "text": "C) didn’t have to",
+              "value": "C"
+            },
+            {
+              "text": "D) could",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q60",
+          "type": "mcq1",
+          "label": "60 Our math teacher made   a hundred math problems in one hour.",
+          "choices": [
+            {
+              "text": "A) us to solve",
+              "value": "A"
+            },
+            {
+              "text": "B) be solved",
+              "value": "B"
+            },
+            {
+              "text": "C) us solve",
+              "value": "C"
+            },
+            {
+              "text": "D) solve",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q61",
+          "type": "mcq1",
+          "label": "61 The process   be very time-consuming before they launched the new system.",
+          "choices": [
+            {
+              "text": "A) might",
+              "value": "A"
+            },
+            {
+              "text": "B) would",
+              "value": "B"
+            },
+            {
+              "text": "C) ought to",
+              "value": "C"
+            },
+            {
+              "text": "D) used to",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q62",
+          "type": "mcq1",
+          "label": "62 After some time together, those on John’s team learned not to underestimate  .",
+          "choices": [
+            {
+              "text": "A) each other",
+              "value": "A"
+            },
+            {
+              "text": "B) himself",
+              "value": "B"
+            },
+            {
+              "text": "C) another",
+              "value": "C"
+            },
+            {
+              "text": "D) itself",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        },
+        {
+          "id": "Q63",
+          "type": "mcq1",
+          "label": "63 The man next door asked me   keep an eye on his apartment while he was away.",
+          "choices": [
+            {
+              "text": "A) I can",
+              "value": "A"
+            },
+            {
+              "text": "B) would I",
+              "value": "B"
+            },
+            {
+              "text": "C) if I could",
+              "value": "C"
+            },
+            {
+              "text": "D) whether will I",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q64",
+          "type": "mcq1",
+          "label": "64 Our niece is very hardworking and determined. She has never had any trouble   her exams.",
+          "choices": [
+            {
+              "text": "A) to pass",
+              "value": "A"
+            },
+            {
+              "text": "B) passing",
+              "value": "B"
+            },
+            {
+              "text": "C) passed",
+              "value": "C"
+            },
+            {
+              "text": "D) pass",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q65",
+          "type": "mcq1",
+          "label": "65 If they   the damage more carefully, they would have found these other problems.",
+          "choices": [
+            {
+              "text": "A) would assess",
+              "value": "A"
+            },
+            {
+              "text": "B) had assessed",
+              "value": "B"
+            },
+            {
+              "text": "C) have assessed",
+              "value": "C"
+            },
+            {
+              "text": "D) would have assessed",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q66",
+          "type": "mcq1",
+          "label": "66 By this time next Monday,   a new head of the sales department.",
+          "choices": [
+            {
+              "text": "A) we hire",
+              "value": "A"
+            },
+            {
+              "text": "B) we’re hiring",
+              "value": "B"
+            },
+            {
+              "text": "C) we’ll have hired",
+              "value": "C"
+            },
+            {
+              "text": "D) we have been hiring",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q67",
+          "type": "mcq1",
+          "label": "67 The consultants proposed a number of alternatives,   the firm disregarded.",
+          "choices": [
+            {
+              "text": "A) much of what",
+              "value": "A"
+            },
+            {
+              "text": "B) many of which",
+              "value": "B"
+            },
+            {
+              "text": "C) some of whom",
+              "value": "C"
+            },
+            {
+              "text": "D) none of whose",
+              "value": "D"
+            }
+          ],
+          "answer_value": "B",
+          "weight": 1
+        },
+        {
+          "id": "Q68",
+          "type": "mcq1",
+          "label": "68 What   a couple of relaxing days at an unspoiled beach.",
+          "choices": [
+            {
+              "text": "A) they actually plan",
+              "value": "A"
+            },
+            {
+              "text": "B) did they actually plan",
+              "value": "B"
+            },
+            {
+              "text": "C) they actually planned was",
+              "value": "C"
+            },
+            {
+              "text": "D) have they actually planned are",
+              "value": "D"
+            }
+          ],
+          "answer_value": "C",
+          "weight": 1
+        },
+        {
+          "id": "Q69",
+          "type": "mcq1",
+          "label": "69 We felt genuinely shocked. Never again   at such an overrated place.",
+          "choices": [
+            {
+              "text": "A) ate we",
+              "value": "A"
+            },
+            {
+              "text": "B) we will eat",
+              "value": "B"
+            },
+            {
+              "text": "C) did eat we",
+              "value": "C"
+            },
+            {
+              "text": "D) would we eat",
+              "value": "D"
+            }
+          ],
+          "answer_value": "D",
+          "weight": 1
+        },
+        {
+          "id": "Q70",
+          "type": "mcq1",
+          "label": "70 Authorities recommend that everyone   the highway until repairs are completed.",
+          "choices": [
+            {
+              "text": "A) avoid",
+              "value": "A"
+            },
+            {
+              "text": "B) avoided",
+              "value": "B"
+            },
+            {
+              "text": "C) would avoid",
+              "value": "C"
+            },
+            {
+              "text": "D) is going to avoid",
+              "value": "D"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
