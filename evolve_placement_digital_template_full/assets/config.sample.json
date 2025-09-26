@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "EVOLVE Placement Test \u2014 Digital",
+    "version": "1.0",
+    "provider": "Premium Level",
+    "level_map": [
+      {
+        "min": 0,
+        "max": 10,
+        "level": "A1"
+      },
+      {
+        "min": 11,
+        "max": 20,
+        "level": "A2"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Listening",
+      "instructions": "Listen once. Choose the correct answer.",
+      "timer_seconds": 600,
+      "items": [
+        {
+          "id": "L1",
+          "type": "audio",
+          "label": "Track 1",
+          "asset": "assets/audio/track1.mp3"
+        },
+        {
+          "id": "Q1",
+          "type": "mcq1",
+          "label": "1) Example question",
+          "choices": [
+            {
+              "text": "A",
+              "value": "A"
+            },
+            {
+              "text": "B",
+              "value": "B"
+            }
+          ],
+          "answer_value": "A",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

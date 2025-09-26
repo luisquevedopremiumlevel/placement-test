@@ -1,0 +1,1 @@
+window.addEventListener("load",()=>{document.getElementById("app").innerHTML='<div class="card"><h1>Placement Test Template</h1><p>Edit config.sample.json to create your test.</p></div>';});
